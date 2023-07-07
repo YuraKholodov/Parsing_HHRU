@@ -1,0 +1,38 @@
+[
+    {
+        "href": "https://spb.hh.ru/vacancy/81702111?from=vacancy_search_list&query=python",
+        "salary": "от 75 000 до 110 000 ₽ на руки",
+        "city": "Город не указан",
+        "company_name": "ООО Люмипроб Рус"
+    },
+    {
+        "href": "https://spb.hh.ru/vacancy/83116394?from=vacancy_search_list&query=python",
+        "salary": "Зарплата не указана",
+        "city": "Москва",
+        "company_name": "Positive Technologies"
+    },
+    {
+        "href": "https://spb.hh.ru/vacancy/81357710?from=vacancy_search_list&query=python",
+        "salary": "Зарплата не указана",
+        "city": "Город не указан",
+        "company_name": "ООО ПроКомплаенс"
+    },
+    {
+        "href": "https://spb.hh.ru/vacancy/76086723?from=vacancy_search_list&query=python",
+        "salary": "от 1 000 до 2 000 $ до вычета налогов",
+        "city": "Санкт-Петербург",
+        "company_name": "ООО ГравиЛинк"
+    },
+    {
+        "href": "https://spb.hh.ru/vacancy/83019820?from=vacancy_search_list&query=python",
+        "salary": "от 75 000 ₽ на руки",
+        "city": "Город не указан",
+        "company_name": "ООО ТайпТайп"
+    },
+    {
+        "href": "https://spb.hh.ru/vacancy/82260854?from=vacancy_search_list&query=python",
+        "salary": "от 100 000 до 160 000 ₽ на руки",
+        "city": "Город не указан",
+        "company_name": "Mindbox"
+    }
+]
